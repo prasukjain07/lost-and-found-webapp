@@ -31,9 +31,11 @@ The Lost and Found Platform is designed to help users:
 ### Data Flow Diagrams
 1. **Level 0 DFD**: Shows the high-level flow of information between the user and the platform, interacting with both the Lost and Found Databases.
 2. **Level 1 DFD**: Provides a more detailed flow, breaking down processes such as Lost Item Reporting, Found Item Reporting, and Search & Match functionalities.
-
+   
+**Level 0 DFD**
 ![Data Flow Diagram](./Diagrams/DFD-level0.png)
 
+**Level 1 DFD**
 ![Data Flow Diagram](./Diagrams/DFD-level1.png)
 
 ### Sequence Diagram
