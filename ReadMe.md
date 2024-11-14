@@ -60,6 +60,15 @@ The use case diagram provides an overview of the platform's core functionalities
 
 ![Use Case Diagram](./Diagrams/useCaseDiagram.png)
 
+### Collaboration Diagram
+![Collaboratoion Diagram](./Diagrams/collaboration.png)
+
+### Activity Diagram
+![Activity Diagram](./Diagrams/ActivityDiagram.png)
+
+### Descision Tree
+![Descision Diagram](./Diagrams/descisionTree.png)
+
 ## Usage
 - **Report Lost Item**: Users can navigate to the "Report Lost Item" page to submit details of a lost item. The system checks against the Found Items Database for a match. If a match is found, the user can retrieve the finder’s contact information. If no match is found, the item is stored in the Lost Items Database.
 - **Report Found Item**: Users can navigate to the "Report Found Item" page to submit details of a found item. The system checks against the Lost Items Database for a match. If a match is found, the finder can retrieve the owner's contact information. If no match is found, the item is stored in the Found Items Database.
