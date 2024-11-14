@@ -11,7 +11,6 @@ This project is a **Lost and Found Platform** where users can report lost and fo
   - [Class Diagram](#class-diagram)
   - [State Diagram](#state-diagram)
   - [Use Case Diagram](#use-case-diagram)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
